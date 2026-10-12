@@ -1,0 +1,1 @@
+SELECT * FROM history LIMIT 100
